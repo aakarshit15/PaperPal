@@ -23,4 +23,4 @@ python -m venv .venv
 
 #### Step 5: Run the project:
 
-`streamlit main.py`
+`streamlit run main.py`
